@@ -1,0 +1,53 @@
+:root{
+ --f7-theme-color:#1f2803;
+ --f7-navbar-bg-color: #1f2803; /*navbar*/
+ --f7-navbar-text-color:#fff;
+--f7-navbar-link-color: #fff;
+ --f7-bars-bg-color:#1f2803;/*toolbar*/
+ --f7-block-margin-vertical:20px;
+ --f7-card-footer-border-color:transparent; 
+}
+
+body {
+	
+	font-size: 10px;
+	
+}
+
+li { 
+font-size: 70px;
+text-align: center;
+	margin-bottom: 150px;
+	
+}
+
+.logonav{
+ margin-left:20px;
+	
+	
+}
+#app h2{
+	font-size: 20px;
+	
+	
+}
+.menutext {
+	
+	font-size: 10px;
+}
+
+.img-fluid {
+	
+	padding-left: 90px;
+}
+
+.imgleft {
+	
+	padding-left: 15px;
+}
+
+.galeriatext {
+	
+	font-size: 15px;
+	text-align: center;
+}
